@@ -5,11 +5,14 @@ The Awesome Collection of related Backdooring.
 1. Introduction to Manual Backdooring by Abatchy
 
 Blog:        http://www.abatchy.com/2017/05/introduction-to-manual-backdooring_24.html
+
 Exploit-db:  https://www.exploit-db.com/docs/42061.pdf
+
 Github:      https://github.com/abatchy17/Introduction-To-Manual-Backdooring
 
 
 2. Backdoor 101 Series by Vincent Yiu
+
 Blog: https://vincentyiu.co.uk/backdoor-101/
       https://vincentyiu.co.uk/backdoor-102/
       https://vincentyiu.co.uk/untitled/
