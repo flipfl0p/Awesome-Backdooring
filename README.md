@@ -10,6 +10,7 @@ Exploit-db:  https://www.exploit-db.com/docs/42061.pdf
 
 Github:      https://github.com/abatchy17/Introduction-To-Manual-Backdooring
 
+
 2. Backdoor 101 Series by Vincent Yiu
 Blog: https://vincentyiu.co.uk/backdoor-101/
       https://vincentyiu.co.uk/backdoor-102/
@@ -18,7 +19,9 @@ Blog: https://vincentyiu.co.uk/backdoor-101/
 3. Backdooring PE Files Part 1 & part 2 by Michael Allen(aka dark_night)
 
 Blog: http://sector876.blogspot.in/2013/03/backdooring-pe-files-part-1.html
+
       http://sector876.blogspot.ca/2013/03/backdooring-pe-files-part-2.html
+      
       
 4. Manually Adding Shellcode to Windows Executables by Jerald 
 
