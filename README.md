@@ -24,7 +24,6 @@ Blog: http://sector876.blogspot.in/2013/03/backdooring-pe-files-part-1.html
       
       
 4. Manually Adding Shellcode to Windows Executables by Jerald 
-
 Blog:  https://v00d00sec.com/2015/09/14/manually-backdooring-windows-executables/
 
 
